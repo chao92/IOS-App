@@ -1,0 +1,6 @@
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = $(inherited) "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/Lightstreamer_iOS_Client"
+LIBRARY_SEARCH_PATHS = $(inherited) "${PODS_ROOT}/Lightstreamer_iOS_Client/lib" $(inherited) "${PODS_ROOT}/Lightstreamer_iOS_Client/lib"
+OTHER_CFLAGS = $(inherited) -isystem "${PODS_ROOT}/Headers/Public" -isystem "${PODS_ROOT}/Headers/Public/Lightstreamer_iOS_Client"
+OTHER_LDFLAGS = $(inherited) -ObjC -l"Lightstreamer_iOS_client_64" -l"icucore" -l"jre_emul" -l"z" -framework "Security" -framework "SystemConfiguration"
+PODS_ROOT = ${SRCROOT}/Pods
