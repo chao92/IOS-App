@@ -1,0 +1,10 @@
+PODS:
+  - Lightstreamer_iOS_Client (2.0.0-a5)
+
+DEPENDENCIES:
+  - Lightstreamer_iOS_Client (= 2.0.0-a5)
+
+SPEC CHECKSUMS:
+  Lightstreamer_iOS_Client: 7144da4b32c315d4656754919cee780378ca8117
+
+COCOAPODS: 0.39.0

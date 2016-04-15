@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "loginViewController.loginTapped(AnyObject) -&gt; ():loginViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "urlGlobalBase">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "App.jsonGetClassesByConditions (Swift.String) -&gt; Swift.Array&lt;App.classInf&gt;:databaseUtility.swift">
+      </ContextState>
+      <ContextState
+         contextName = "App.teacherAddClassViewController.string2Date (App.teacherAddClassViewController)(Swift.String) -&gt; ObjectiveC.NSDate:teacherAddClassViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "NSLocale(localeIdentifier: &quot;en_US_POSIX&quot;)">
+            </PersistentString>
+            <PersistentString
+               value = "NSLocale(localeIdentifier: &quot;en_US_fdsafd&quot;)">
+            </PersistentString>
+            <PersistentString
+               value = "dateFormatter.locale">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "App.teacherClassDetailTableViewController.tableView (App.teacherClassDetailTableViewController)(ObjectiveC.UITableView, cellForRowAtIndexPath : ObjectiveC.NSIndexPath) -&gt; ObjectiveC.UITableViewCell:teacherClassDetailTableViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "App.teacherMainViewController.tableView (App.teacherMainViewController)(ObjectiveC.UITableView, didSelectRowAtIndexPath : ObjectiveC.NSIndexPath) -&gt; ():teacherMainViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "sections[indexPath.section].classInfArray[indexPath.row].topic">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "(request(Method, URLStringConvertible, parameters : [String : AnyObject]?, encoding : ParameterEncoding, headers : [String : String]?) -&gt; Request).(default argument 3):Alamofire.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = ".URL">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "studentMenuTableViewController.viewDidLoad() -&gt; ():studentMenuTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath == nil">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "studentMenuTableViewController.tableView(UITableView, cellForRowAtIndexPath : NSIndexPath) -&gt; UITableViewCell:studentMenuTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.tableView.dequeueReusableCellWithIdentifier(&quot;CELL&quot;, forIndexPath: indexPath)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "App.teacherClassDetailTableViewController.initializeSession (App.teacherClassDetailTableViewController)() -&gt; ():teacherClassDetailTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "classInfCell.description">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "App.teacherAddClassViewController.tableView (App.teacherAddClassViewController)(ObjectiveC.UITableView, cellForRowAtIndexPath : ObjectiveC.NSIndexPath) -&gt; ObjectiveC.UITableViewCell:teacherAddClassViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
