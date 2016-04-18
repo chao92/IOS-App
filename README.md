@@ -29,5 +29,3 @@ Academic Integrity APP
   For Barcode Scan
     Integrate with UCSD student database
   Improve User interface and fix bugs
-
-
