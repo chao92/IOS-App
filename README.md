@@ -41,7 +41,7 @@ Academic Integrity APP
 
   For registration
 
-    Implementing the function of the role of admin such as close or delete a report.
+	Implementing the function of the role of admin such as close or delete a report.
     
   For report:
   
