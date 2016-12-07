@@ -34,7 +34,7 @@ Dishonesty prevention for education
 ## Demo Video
 <p align="center">
 <a href="https://www.youtube.com/watch?v=9u3S-D_Wha4
-" target="_blank"><img src="IOS-App/Screen Shot 2016-12-07 at 12.54.45 PM.png" 
+" target="_blank"><img src="https://github.com/chao92/IOS-App/blob/master/Screen%20Shot%202016-12-07%20at%2012.54.45%20PM.png" 
 alt="IMAGE ALT TEXT HERE" width="550" height="300" border="10" /></a>
 </p>
 
